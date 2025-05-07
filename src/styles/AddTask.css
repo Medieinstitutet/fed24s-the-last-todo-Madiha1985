@@ -1,0 +1,29 @@
+
+.add-task-container {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  
+   input {
+    padding: 8px;
+    width: 200px;
+    margin-bottom: 10px;
+    border: 1px solid #de289e;
+    border-radius: 5px;
+  }
+   button {
+    padding: 8px 16px;
+    background-color: rgb(218, 79, 163);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+   button:hover {
+    background-color: #de289e;
+  }
+}
+  

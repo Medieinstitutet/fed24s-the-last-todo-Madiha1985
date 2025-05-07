@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+body{
+  background-color: #f0f0f0;
+  background-image: url(assets/todoback.jpg);
+  background-size: cover;
+  font:Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
